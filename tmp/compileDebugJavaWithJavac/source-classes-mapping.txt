@@ -1,2 +1,0 @@
-eu/tutorials/ageinminutes/BuildConfig.java
- eu.tutorials.ageinminutes.BuildConfig
